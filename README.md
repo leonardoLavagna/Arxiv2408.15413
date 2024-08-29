@@ -1,6 +1,6 @@
 # Arxiv_2408.15413
 ## On the Effects of Small Graph Perturbations in the MaxCut Problem by QAOA.
-This is the companion repository for the paper "On the Effects of Small Graph Perturbations in the MaxCut Problem by QAOA" available on [https://www.arxiv.org/abs/2408.15413](https://www.arxiv.org/abs/2408.15413).
+This is the companion repository for the paper "On the Effects of Small Graph Perturbations in the MaxCut Problem by QAOA" available on [https://www.arxiv.org/abs/2408.15413](https://www.arxiv.org/abs/2408.15413), announced [here](https://leonardolavagna.github.io/posts/2024/08/SYM-QAOA/), and discussed [here](https://lavagnaleo.wordpress.com/2024/08/29/on-the-effects-of-small-graph-perturbations-in-themaxcut-problem-by-qaoa).
 
 ### What's in here? 
 Here you can find:
