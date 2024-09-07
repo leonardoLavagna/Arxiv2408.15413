@@ -10,5 +10,5 @@ In this repository you can find:
 
 The code depend on the QAOA implementation we have in our laboratory (see [https://github.com/NesyaLab/qaoa](https://github.com/NesyaLab/qaoa/)) which is based on [qiskit](https://www.ibm.com/quantum/qiskit), and the library [pynauty](https://github.com/pdobsan/pynauty). This code allows for some flexibility currently not supported by qiskit standard methods. 
 
-Code version `v0.2`. If you happen to use our code, please cite the preprint.
+Code version `v0.2`. If you happen to use our code, please cite the associated article.
 
