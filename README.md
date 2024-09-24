@@ -10,5 +10,25 @@ In this repository you can find:
 
 The code depend on the QAOA implementation we have in our laboratory (see [https://github.com/NesyaLab/qaoa](https://github.com/NesyaLab/qaoa/)) which is based on [qiskit](https://www.ibm.com/quantum/qiskit), and the library [pynauty](https://github.com/pdobsan/pynauty). This code allows for some flexibility currently not supported by qiskit standard methods. 
 
+### Reference
 Code version `v0.2`. If you happen to use our code, please cite the associated article.
+
+```
+@misc{lavagna2024effectssmallgraphperturbations,
+      title={On the Effects of Small Graph Perturbations in the MaxCut Problem by QAOA}, 
+      author={Leonardo Lavagna and Simone Piperno and Andrea Ceschini and Massimo Panella},
+      year={2024},
+      eprint={2408.15413},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2408.15413}, 
+}
+```
+
+### Contributing
+We welcome contributions to enhance the functionality and performance of the models. Please submit pull requests or open issues for any improvements or bug fixes.
+
+### License
+This project is licensed under the MIT License.
+
 
